@@ -1,7 +1,7 @@
 EPL133 Assignment 4: Take-away Simulation System
 
 **Authors:** Eleni Ioannou & Georgos Gewrgiadis 
-**Last Updated:** 16/04/2024 
+**Last Updated:** 20/04/2024 
 
 The Take-away Simulation System is designed to emulate the workflow of a take-away restaurant. 
 It includes components for order generation, food preparation, and order delivery. 
