@@ -24,7 +24,8 @@ The system models different food items such as fries, pies, and various meats, e
 - Order Generator: The program creates a file named orders.txt as output.
 Contents of orders.txt:
 1. The total number of orders (e.g., 1000).
-2. Each line represents one order, with the following structure: num torder tdelreq; npp npc nps npm npf
+2. Each line represents one order, with the following structure:
+    num torder tdelreq; npp npc nps npm npf
   num – Order number (e.g., 1, 2, 3...).
   torder – Time the order is placed (in simulation time).
   tdelreq – Requested delivery time (relative to order time).
